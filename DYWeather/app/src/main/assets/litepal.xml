@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="dyweather" />
+    <version value="1" />
+    <list>
+        <mapping class="android.dyweather.gdcp.cn.dyweather.db.Province"></mapping>
+        <mapping class="android.dyweather.gdcp.cn.dyweather.db.City"></mapping>
+        <mapping class="android.dyweather.gdcp.cn.dyweather.db.County"></mapping>
+    </list>
+</litepal>
